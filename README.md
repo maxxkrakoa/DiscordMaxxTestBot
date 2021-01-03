@@ -14,3 +14,5 @@
 - Use `discord.js` module to handle the heavy lifting on the bot side
     - https://discord.js.org
 - You will need the bot token which you can find and copy from the application bot page
+- Create a local file called `.env` which will contain the bot token
+    - `BOTTOKEN=<BOT TOKEN>`
